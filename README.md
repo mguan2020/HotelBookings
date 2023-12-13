@@ -1,6 +1,6 @@
-# Developing micro-services using Spring boot
-# Project: Hotel Management
+# Hotel Reservation Management App
 
+#The app is built using Java Spring Boot for the backend.
+#The app is designed using the microservice architecture. There are several services, such as bookings service and payments service.
+#Each service is containerized using Docker.
 #Kafka is used for notification stream (Producer-Consumer Model)
-
-#OpenFeign for use of interface directly using some functions without implementing it because spring boot will handle it automatically
